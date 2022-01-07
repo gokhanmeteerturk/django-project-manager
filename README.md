@@ -1,4 +1,7 @@
 # django-project-manager
+![status](https://img.shields.io/badge/Project%20Status-%2520-yellow) 
+![python](https://img.shields.io/badge/python-v3.9-blue) 
+![django](https://img.shields.io/badge/Django-v4.0-red)
 
 A complete project management app built with Django and Python.
 
